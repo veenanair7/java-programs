@@ -1,0 +1,26 @@
+Program output:
+
+Order a pizza
+
+Pizza size: medium
+no of cheese toppings:1
+no of pepperoni toppings:0
+no Beef toppings:0
+cost:14.0
+
+Changing my order
+
+Pizza size: large
+no of cheese toppings:2
+no of pepperoni toppings:0
+no Beef toppings:1
+cost:20.0
+
+Order a special pizza
+Pizza size: small
+no of cheese toppings:3
+no of pepperoni toppings:1
+no Beef toppings:4
+cost:26.0
+ 
+Thank you for ordering a special Pizza
